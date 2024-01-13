@@ -38,6 +38,8 @@ body{
 .img-container{
   position: relative;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
 }
 .cube{
   width: 100%;
